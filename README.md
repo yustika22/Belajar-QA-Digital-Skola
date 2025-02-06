@@ -1,3 +1,5 @@
 # Belajar-QA-Digital-Skola by Yustika Dyah Shafira
 
-Ini dibuat untuk tugas sesi5
+Haloooo ,
+Selamat datang .
+Ini dibuat untuk tugas sesi5 Quality Assurance Automation Mini Bootcamp by Digital Skola
