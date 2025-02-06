@@ -1,0 +1,1 @@
+let tanggalUlangTahun = 22;
