@@ -1,4 +1,4 @@
-const panggilFungsi = (namaPanjang) => {
+const namaFungsi = (namaPanjang) => {
   let tampilkan;
   tampilkan = `Halooo, ${namaPanjang}`;
 
