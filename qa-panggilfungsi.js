@@ -1,6 +1,6 @@
 const panggilFungsi = (namaPanjang) => {
   let menampilkan;
-  menampilkan = `Halooo, ${namaPanjang}`;
+  menampilkan = `Hai, ${namaPanjang}`;
 
   return menampilkan;
 };
