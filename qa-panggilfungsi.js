@@ -4,5 +4,5 @@ const namaFungsi = (namaPanjang) => {
 
   return tampilkan;
 };
-let nama = panggilFungsi("Yustika Dyah Shafira");
+let nama = namaFungsi("Yustika Dyah Shafira");
 console.log(nama);
